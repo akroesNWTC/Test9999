@@ -8,6 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var test = "sdf"
+
+        var test2 = 1378
+
+
     }
 }
